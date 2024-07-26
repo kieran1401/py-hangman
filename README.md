@@ -18,7 +18,7 @@ The Hangman Game allows users to guess letters in a hidden word. Players must gu
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Run the `mainn.py` script using Python.
+3. Run the `main.py` script using Python.
 
 ```sh
 python main.py
